@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: meliuz/flexboxgrid
+  description: '### npm
+
+    `npm i flexboxgrid --save`
+
+    '
+  name: flexboxgrid
+spec:
+  lifecycle: experimental
+  type: website
